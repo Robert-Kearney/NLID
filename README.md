@@ -1,6 +1,6 @@
 # NLID
-Phtyon tools for nonlinear identification 
-This project will port the NLID toolbox original developed by Rob Kearney and collegaues in MATLAB into Python as an open source package. 
+Python tools for nonlinear identification 
+This project will port the MATLAB NLID toolbox developed by Rob Kearney and colleagues into Python as an open source package. 
 This toolbox includes routines for time-invariant and time-varying identification of:
 1) linear dynamic models comprising impulse response function models, frequency response function, state-space models;
 2) block oriented nonlinear structures comprising Hammerstein systems, Wiener systems, sandwich and parallel-cascade models;
